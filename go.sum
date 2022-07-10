@@ -1,0 +1,4 @@
+github.com/lib/pq v1.10.6 h1:jbk+ZieJ0D7EVGJYpL9QTz7/YW6UHbmdnZWYyK5cdBs=
+github.com/lib/pq v1.10.6/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/poom9091/go-db-schema-postgress v0.0.0-20220710091016-2eb42ad78e8d h1:3ppTU8lBfLJyem/+Hcf9f0OKICQTZoaer4sPMyKvtI4=
+github.com/poom9091/go-db-schema-postgress v0.0.0-20220710091016-2eb42ad78e8d/go.mod h1:iB6shUnzEnqImXEVf9kwJz8T+yHI3BQFroawIDB0OaU=
