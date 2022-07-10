@@ -62,6 +62,7 @@ func exists(username string) int {
 
 func AddUser(d Userdata) int {
 	d.Username = strings.ToLower(d.Username)
+	fmt.Println("Open connection")
 	db, err := openConnection()
 	if err != nil {
 		fmt.Println(err)
